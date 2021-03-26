@@ -1,0 +1,4 @@
+﻿  Queue.cpp
+D:\Hlomida\Очередь\Queue.h(94): warning C4715: queue<int>::Top: значение возвращается не при всех путях выполнения
+D:\Hlomida\Очередь\Queue.h(106): warning C4715: queue<int>::Back: значение возвращается не при всех путях выполнения
+  Очередь.vcxproj -> D:\Hlomida\Очередь\x64\Debug\Очередь.exe
